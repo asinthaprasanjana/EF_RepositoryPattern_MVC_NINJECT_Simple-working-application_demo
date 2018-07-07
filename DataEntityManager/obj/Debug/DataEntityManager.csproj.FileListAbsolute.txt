@@ -1,0 +1,20 @@
+I:\projects\DataEntityManager\bin\Debug\DataEntityManager.dll.config
+I:\projects\DataEntityManager\bin\Debug\DataEntityManager.dll
+I:\projects\DataEntityManager\bin\Debug\DataEntityManager.pdb
+I:\projects\DataEntityManager\bin\Debug\EntityFramework.dll
+I:\projects\DataEntityManager\bin\Debug\EntityFramework.SqlServer.dll
+I:\projects\DataEntityManager\bin\Debug\EntityFramework.xml
+I:\projects\DataEntityManager\bin\Debug\EntityFramework.SqlServer.xml
+I:\projects\DataEntityManager\obj\Debug\DataEntityManager.dll
+I:\projects\DataEntityManager\obj\Debug\DataEntityManager.pdb
+I:\projects\DataEntityManager\obj\Debug\DataEntityManager.csprojResolveAssemblyReference.cache
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\DataEntityManager.dll.config
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\DataEntityManager.dll
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\DataEntityManager.pdb
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\EntityFramework.dll
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\EntityFramework.SqlServer.dll
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\EntityFramework.xml
+I:\projects\repository pattern with entityframework\DataEntityManager\bin\Debug\EntityFramework.SqlServer.xml
+I:\projects\repository pattern with entityframework\DataEntityManager\obj\Debug\DataEntityManager.csprojResolveAssemblyReference.cache
+I:\projects\repository pattern with entityframework\DataEntityManager\obj\Debug\DataEntityManager.dll
+I:\projects\repository pattern with entityframework\DataEntityManager\obj\Debug\DataEntityManager.pdb
