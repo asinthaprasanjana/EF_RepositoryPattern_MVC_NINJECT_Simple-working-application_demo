@@ -1,0 +1,33 @@
+I:\projects\DataEntity\bin\Debug\DataEntity.dll.config
+I:\projects\DataEntity\bin\Debug\DataEntity.dll
+I:\projects\DataEntity\bin\Debug\DataEntity.pdb
+I:\projects\DataEntity\bin\Debug\DataEntityManager.dll
+I:\projects\DataEntity\bin\Debug\EntityFramework.dll
+I:\projects\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+I:\projects\DataEntity\bin\Debug\DataEntityManager.pdb
+I:\projects\DataEntity\bin\Debug\EntityFramework.xml
+I:\projects\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+I:\projects\DataEntity\obj\Debug\DataEntity.csprojResolveAssemblyReference.cache
+I:\projects\DataEntity\obj\Debug\DataEntity.dll
+I:\projects\DataEntity\obj\Debug\DataEntity.pdb
+I:\projects\DataEntity\obj\Debug\DataEntity.Migrations.InitialCreate.resources
+I:\projects\DataEntity\obj\Debug\DataEntity.csproj.GenerateResource.Cache
+I:\projects\repository pattern with entityframework\DataEntity\obj\Debug\DataEntity.csprojResolveAssemblyReference.cache
+I:\projects\repository pattern with entityframework\DataEntity\obj\Debug\DataEntity.dll
+I:\projects\repository pattern with entityframework\DataEntity\obj\Debug\DataEntity.pdb
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\DataEntity.dll.config
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\DataEntity.dll
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\DataEntity.pdb
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\AutoMapper.dll
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\DataEntityManager.dll
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\EntityFramework.dll
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\EntityFramework.SqlServer.dll
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\System.ValueTuple.dll
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\DataEntityManager.pdb
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\AutoMapper.pdb
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\AutoMapper.xml
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\EntityFramework.xml
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\EntityFramework.SqlServer.xml
+I:\projects\repository pattern with entityframework\DataEntity\bin\Debug\System.ValueTuple.xml
+I:\projects\repository pattern with entityframework\DataEntity\obj\Debug\DataEntity.Migrations.InitialCreate.resources
+I:\projects\repository pattern with entityframework\DataEntity\obj\Debug\DataEntity.csproj.GenerateResource.Cache
