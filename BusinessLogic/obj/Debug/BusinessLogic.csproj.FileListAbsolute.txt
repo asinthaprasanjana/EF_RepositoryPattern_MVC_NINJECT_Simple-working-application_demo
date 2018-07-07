@@ -1,0 +1,42 @@
+I:\projects\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+I:\projects\BusinessLogic\bin\Debug\BusinessLogic.dll
+I:\projects\BusinessLogic\bin\Debug\BusinessLogic.pdb
+I:\projects\BusinessLogic\bin\Debug\AutoMapper.dll
+I:\projects\BusinessLogic\bin\Debug\DataEntity.dll
+I:\projects\BusinessLogic\bin\Debug\DataEntityManager.dll
+I:\projects\BusinessLogic\bin\Debug\DTOs.dll
+I:\projects\BusinessLogic\bin\Debug\EntityFramework.dll
+I:\projects\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+I:\projects\BusinessLogic\bin\Debug\System.ValueTuple.dll
+I:\projects\BusinessLogic\bin\Debug\DataEntityManager.pdb
+I:\projects\BusinessLogic\bin\Debug\DataEntity.pdb
+I:\projects\BusinessLogic\bin\Debug\DTOs.pdb
+I:\projects\BusinessLogic\bin\Debug\AutoMapper.pdb
+I:\projects\BusinessLogic\bin\Debug\AutoMapper.xml
+I:\projects\BusinessLogic\bin\Debug\EntityFramework.xml
+I:\projects\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\projects\BusinessLogic\bin\Debug\System.ValueTuple.xml
+I:\projects\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+I:\projects\BusinessLogic\obj\Debug\BusinessLogic.dll
+I:\projects\BusinessLogic\obj\Debug\BusinessLogic.pdb
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\BusinessLogic.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\BusinessLogic.pdb
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\AutoMapper.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\DataEntity.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\DataEntityManager.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\DTOs.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\EntityFramework.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\System.ValueTuple.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\DataEntityManager.pdb
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\DataEntity.pdb
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\DTOs.pdb
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\AutoMapper.pdb
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\AutoMapper.xml
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\EntityFramework.xml
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\projects\repository pattern with entityframework\BusinessLogic\bin\Debug\System.ValueTuple.xml
+I:\projects\repository pattern with entityframework\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+I:\projects\repository pattern with entityframework\BusinessLogic\obj\Debug\BusinessLogic.dll
+I:\projects\repository pattern with entityframework\BusinessLogic\obj\Debug\BusinessLogic.pdb
